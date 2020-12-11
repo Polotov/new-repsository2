@@ -13,7 +13,7 @@ def register(username, password, check_password):
         print('Incorrect password')
 
 
-# code for inputting the username and password, also code for inputting check_password
+# co de for inputting the username and password, also code for inputting check_password
 username = input('Please input your username: ')
 password = input('Please input your password: ')
 check_password = input('Please input your password again: ')
